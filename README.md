@@ -21,5 +21,13 @@ Special thanks to Sebastian Raschka for creating and sharing the original projec
 ## License
 This repository follows the same license as the original project. Please see the LICENSE file for details.
 
+## Citation
+
+If you find this book or code useful for your research, please consider citing it:
+
+```
+Raschka, Sebastian. Build A Large Language Model (From Scratch). Manning, 2024. ISBN: 978-1633437166.
+```
+
 ---
 Repository maintained by [hongping1963-source](https://github.com/hongping1963-source)
